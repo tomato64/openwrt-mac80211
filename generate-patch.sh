@@ -2,8 +2,8 @@
 
 set -e
 
-VERSION=6.11
-HASH=04c5c1ff70467c4230c427328d77667afb8b9668
+VERSION=6.11.2
+HASH=1fdc4b144b095fa881746a74d4a8488b317f199b
 
 rm -rf openwrt
 rm -rf backports*

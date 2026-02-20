@@ -2,8 +2,8 @@
 
 set -e
 
-VERSION=6.18
-HASH=v25.12.0-rc1
+VERSION=6.18.7
+HASH=v25.12.0-rc5
 
 rm -rf openwrt
 rm -rf backports*

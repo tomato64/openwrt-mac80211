@@ -2,9 +2,9 @@
 
 set -e
 
-VERSION=6.18.7
+VERSION=6.18.26
 #HASH=openwrt-25.12 #One off use branch head
-HASH=v25.12.2
+HASH=v25.12.4
 
 rm -rf openwrt
 rm -rf backports*
